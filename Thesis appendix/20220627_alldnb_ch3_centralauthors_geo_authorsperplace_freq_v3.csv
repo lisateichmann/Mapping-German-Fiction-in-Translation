@@ -1,0 +1,779 @@
+"","place","count"
+"1","",9
+"2","Aachen",1
+"3","Aalst",1
+"4","Aarau",5
+"5","Aarhus",14
+"6","Aarhus V",1
+"7","Aartselaar",2
+"8","Abcoude",1
+"9","Acireale",1
+"10","Alata",2
+"11","Albany",4
+"12","Albergen",1
+"13","Albi",1
+"14","Alès",1
+"15","Alfragide",1
+"16","Alger",1
+"17","Algete",1
+"18","Alkmaar",19
+"19","Alma Ata",1
+"20","Almuñécar",1
+"21","Altenahr",1
+"22","Altendorf",2
+"23","Amsterdam",171
+"24","Anderlingen",1
+"25","Anghiari",3
+"26","Ankara",3
+"27","Antwerpen",8
+"28","Apeldoorn",2
+"29","Arles",27
+"30","Assen",1
+"31","Assens",1
+"32","Asti",2
+"33","Athēna",58
+"34","Augsburg",4
+"35","Austin",3
+"36","Averbode",1
+"37","Baambrugge",1
+"38","Baarn",14
+"39","Babenhausen",1
+"40","Bad Homburg",1
+"41","Bad Oldesloe",1
+"42","Baden Baden",2
+"43","Bakanlıklar Ankara",1
+"44","Balatonboglár",1
+"45","Baltimore",2
+"46","Banja Luka",1
+"47","Barcelona",161
+"48","Bari",1
+"49","Barnaul",1
+"50","Barneveld",4
+"51","Barnsley",1
+"52","Barnstorf",1
+"53","Barret sur Méouge",1
+"54","Basel",1
+"55","Beek",1
+"56","Bègles",1
+"57","Beikheim",1
+"58","Belfast",1
+"59","Bellinzona",4
+"60","Belp",2
+"61","Belval",2
+"62","Benalmádena",1
+"63","Beograd",49
+"64","Bergamo",2
+"65","Bergen",1
+"66","Bergisch Gladbach",2
+"67","Berkeley",2
+"68","Berlin",44
+"69","Bern",3
+"70","Bernay",1
+"71","Bernex Genève",1
+"72","Besançon",2
+"73","Bethlehem",1
+"74","Beyoğlu",4
+"75","Białystok",1
+"76","Biel",1
+"77","Bielefeld",1
+"78","Bielsko Biała",5
+"79","Bilbao",2
+"80","Bleiswijk",4
+"81","Bloomington",2
+"82","Boadilla del Monte",1
+"83","Bocholt",1
+"84","Bochum",1
+"85","Bogota",1
+"86","Bogotá",2
+"87","Bologna",3
+"88","Bolzano",3
+"89","Bolzano Bozen",1
+"90","Bonn",1
+"91","Borgholzhausen",1
+"92","Borsdorf",1
+"93","Borstel",1
+"94","Boskovice",1
+"95","Boston",3
+"96","Boulder",2
+"97","Boulogne",1
+"98","Brabrand",1
+"99","Bratislava",1
+"100","Braunschweig",1
+"101","Breda",5
+"102","Bremen",2
+"103","Brescia",2
+"104","Bresso",1
+"105","Brno",71
+"106","Brodnica",1
+"107","Brookline",1
+"108","Brooklyn",4
+"109","Budapest",137
+"110","Budpest",1
+"111","Buenos Aires",11
+"112","Burien",1
+"113","Bussolengo",1
+"114","Bussy Saint Georges",1
+"115","Bydgoszcz",1
+"116","Čačak",3
+"117","Cáceres",5
+"118","Cadeilhan",2
+"119","Cadillon",3
+"120","Caen",2
+"121","Cağaloğlu",12
+"122","Calcutta",2
+"123","Calliano",1
+"124","Cambridge",7
+"125","Çankaya",1
+"126","Cape Town",1
+"127","Capri",1
+"128","Cardigan",2
+"129","Carouge",1
+"130","Casale Monferrato",1
+"131","Cassaniouze",1
+"132","Castellón",2
+"133","Castelo Branco",1
+"134","Cavallermaggiore",1
+"135","Çekmeköy",3
+"136","Celje",9
+"137","Çemberlitaş",1
+"138","České Budějovice",1
+"139","Chaintreaux",1
+"140","Chambéry",2
+"141","Champaign",7
+"142","Charenton",1
+"143","Charenton le pont",1
+"144","Charkov",25
+"145","Charleston",1
+"146","Charlottenlund",1
+"147","Chêne Bourg",2
+"148","Chennai",1
+"149","Chicago",3
+"150","Chimki",1
+"151","Chiré en Montreuil",1
+"152","Chomutov",1
+"153","Chorzów",1
+"154","Cieszyn",1
+"155","Cihangir",1
+"156","Cincinnati",1
+"157","Cinisello Balsamo",1
+"158","Ciudad de LaHabana",3
+"159","Cluj Napoca",2
+"160","Coeuvres   Valsery",1
+"161","Coimbra",1
+"162","Collegeville",2
+"163","Colonia Churubusco Coyoacán",1
+"164","Columbia",16
+"165","Comano",1
+"166","Como",2
+"167","Condé Sur Noireau",1
+"168","Córdoba",3
+"169","Courbevoie Cedex",1
+"170","Črnomelj",1
+"171","Csíkszereda",1
+"172","DA Eberstadt  Darmstadt Eberstadt",1
+"173","Đakovo",1
+"174","Darmstadt Eberstadt",1
+"175","Debrecen",8
+"176","Delhi",1
+"177","Den Haag",14
+"178","Deutschland",1
+"179","Deventer",3
+"180","Devesset",1
+"181","Diegem",1
+"182","Dijon",1
+"183","Dob",1
+"184","Dražgoše",1
+"185","Dresden",1
+"186","Drösing",1
+"187","Duderstadt",1
+"188","Duisburg",1
+"189","Dülmen",1
+"190","Düren",1
+"191","Düsseldorf",1
+"192","Eckbolsheim",1
+"193","Ede",6
+"194","Edinburgh",2
+"195","Eguilles",1
+"196","Eindhoven",1
+"197","Ekaterinburg",1
+"198","Ėlʹsdorf",1
+"199","Emeryville",1
+"200","Engelskirchen",1
+"201","Enschede",1
+"202","Erfurt",1
+"203","Erlangen",1
+"204","Eskilstuna",1
+"205","Essen",1
+"206","Esslingen",1
+"207","Evanston",6
+"208","Évora",1
+"209","Exeter",1
+"210","Faenza",4
+"211","Farum",1
+"212","Feldafing",1
+"213","Fernwald",1
+"214","Ferrara",2
+"215","Finsing",1
+"216","Firenze",28
+"217","Forlì",1
+"218","Frankfurt",16
+"219","Frankreich",1
+"220","Frederiksberg",3
+"221","Freiburg  Breisgau",1
+"222","Frick",1
+"223","Frýdek Místek",20
+"224","Fulda",1
+"225","Fürth",1
+"226","Füssen",1
+"227","Gabrovo",1
+"228","Galatasaray",1
+"229","Galten",1
+"230","Ganderkesee",1
+"231","Garden City",1
+"232","Gata de Gorgos   Alicante",1
+"233","Gauting",1
+"234","Gdańsk",11
+"235","Gdynia",3
+"236","Gelnhausen",2
+"237","Gelnhausen Roth",1
+"238","Geneve",14
+"239","Genève",7
+"240","Gennevilliers",1
+"241","Genova",5
+"242","Gent",3
+"243","Glasgow",1
+"244","Glonn",2
+"245","Gornji Milanovac",2
+"246","Gorno Altajsk",1
+"247","Göteborg",3
+"248","Göttingen",1
+"249","Grainville",1
+"250","Granada",1
+"251","Grand Haven",3
+"252","Grand Rapids",1
+"253","Grâne",1
+"254","Grenoble",2
+"255","Grimma",1
+"256","Groningen",2
+"257","Groot Bijgaarden",1
+"258","Grudzia dz",1
+"259","Guebwiller",1
+"260","Gundersheim",1
+"261","Güneşli",2
+"262","Gusselby",1
+"263","Güstrow",1
+"264","Haarlem",2
+"265","Halle",1
+"266","Hamburg",12
+"267","Hanau",1
+"268","Hannover",1
+"269","Harmondsworth",2
+"270","Hasselt",1
+"271","Hattersheim",1
+"272","Hattingen",1
+"273","Hauterive",1
+"274","Heerenveen",5
+"275","Heidelberg",2
+"276","Helsingør",1
+"277","Henstedt Ulzburg",1
+"278","Herten",1
+"279","High Wycombe",1
+"280","Hilversum",1
+"281","Hoenheim",1
+"282","Höganäs",2
+"283","Hohen Neuendorf",3
+"284","Hohen Neuendorf bei Berlin",1
+"285","Højbjerg",1
+"286","Homburg Saar",1
+"287","Hondarribia",2
+"288","Hoorn",1
+"289","Houten",8
+"290","Hranice",1
+"291","Idar Oberstein",1
+"292","Illkirch",1
+"293","Immenstadt",1
+"294","Indaiatuba",1
+"295","Innsbruck",3
+"296","İstanbul",43
+"297","Izabelin",2
+"298","İzmir",3
+"299","Järna",1
+"300","Jelenia Góra",2
+"301","Kadıköy",1
+"302","Kaliningrad",1
+"303","Kalisz",1
+"304","Kampen",9
+"305","Karben",1
+"306","Karcag",1
+"307","Karlsbad",1
+"308","Karlsruhe",1
+"309","Katowice",20
+"310","Katwijk aan Zee",2
+"311","Kaufungen",1
+"312","Kbh",3
+"313","Kecskemét",1
+"314","Kehl Rhein",1
+"315","Kerpen",1
+"316","Kibworth Beauchamp",1
+"317","Kielce",1
+"318","Kirchheim",1
+"319","Kızılay",2
+"320","Klagenfurt",16
+"321","Klosterneuburg",1
+"322","København",41
+"323","Köln",15
+"324","Königswinter",2
+"325","Konin",1
+"326","Koper",1
+"327","Korntal",3
+"328","Kostelní Vydří",2
+"329","Kraków",36
+"330","Kraljelo",1
+"331","Krefeld",1
+"332","Kremnv ug",1
+"333","Kriftel",1
+"334","Kuddewörde",1
+"335","Kulmbach",1
+"336","L vov",1
+"337","La Broque",1
+"338","La Habana",1
+"339","La Tour d Aigues",1
+"340","Laboissière en Thelle",1
+"341","Lage",2
+"342","Lagos",1
+"343","Lagrasse",5
+"344","Lanham",3
+"345","Lantzville",1
+"346","Las Vegas",5
+"347","Łask",1
+"348","LaTour d Aigues",3
+"349","Laubach",2
+"350","Lausanne",18
+"351","Le Chambon sur Lignon",2
+"352","Le Mans",2
+"353","Le Mont sur Lausanne",1
+"354","Leegebruch",1
+"355","Leicester",1
+"356","Leiden",2
+"357","Leidschendam",1
+"358","Leikanger",1
+"359","Leipzig",17
+"360","León",1
+"361","LesCharbonnières",1
+"362","Levallois Perret",1
+"363","Levens",1
+"364","Lewisburg",1
+"365","Lewiston",6
+"366","Liberec",2
+"367","Líbeznice",3
+"368","Liebefeld",1
+"369","Lille",1
+"370","Lincoln",3
+"371","Lindau",1
+"372","Lindome",1
+"373","Linz",1
+"374","Lisboa",18
+"375","Lisse",1
+"376","Livermore",1
+"377","Ljubljana",21
+"378","Ljungby",1
+"379","Locarno",4
+"380","Łódź",3
+"381","Logroño",2
+"382","Lohmar",2
+"383","London",108
+"384","Loon Plage",1
+"385","Los Angeles",3
+"386","Loznica",1
+"387","Lublin",4
+"388","Ludvika",1
+"389","Ludwigsburg",1
+"390","Ludwigshafen",1
+"391","Lugano",4
+"392","Lund",3
+"393","Luserna Lusern",1
+"394","Luxembourg",1
+"395","Lysekil",1
+"396","Madison",2
+"397","Madrid",80
+"398","Magdeburg",1
+"399","Mainz",1
+"400","Málaga",1
+"401","Malmö",8
+"402","Maltepe",1
+"403","Manchester",1
+"404","Mandelbachtal",1
+"405","Mankato",1
+"406","Marburg",2
+"407","Maribor",5
+"408","Marollette",1
+"409","Marseille",6
+"410","Marusi",1
+"411","Mecidiyeköy",1
+"412","Meerbusch",2
+"413","Meinerzhagen",3
+"414","Meitingen Erlingen",1
+"415","Melbourne",1
+"416","Melsungen",1
+"417","Meppel",1
+"418","Meran",1
+"419","Merano",1
+"420","Merzenich",1
+"421","Messen",20
+"422","Mettingen",1
+"423","Metz",2
+"424","Meudon",4
+"425","México",4
+"426","México D F",3
+"427","Miercurea Ciuc",1
+"428","Milano",119
+"429","Mineola",1
+"430","Minneapolis",3
+"431","Minsk",4
+"432","Miradolo Terme",1
+"433","Mödling",1
+"434","Monaco",6
+"435","Mont Saint Aignan",4
+"436","Montesson",1
+"437","Montevideo",1
+"438","Montpellier",4
+"439","Montréal",2
+"440","Montreuil",5
+"441","Montreuil sous Bois",1
+"442","Montreux",2
+"443","Montricher",1
+"444","Morioka",1
+"445","Moskva",2
+"446","München",13
+"447","Munich",2
+"448","Münster",2
+"449","Murska Sobota",1
+"450","Mytholmroyd",1
+"451","Naarden",1
+"452","Nagano ken Suwa shi",1
+"453","Nagykanizsa",1
+"454","Nancy",4
+"455","Nantes",3
+"456","Napoli",2
+"457","Neckenmarkt",2
+"458","Nelson",1
+"459","Nennigkofen",1
+"460","Neubrandenburg",1
+"461","Neuötting",1
+"462","Neuried",1
+"463","Neuss",1
+"464","New Delhi",2
+"465","New Haven",1
+"466","New Milford",1
+"467","New York",58
+"468","New York City",2
+"469","Newcastle upon Tyne",1
+"470","Nienburg",2
+"471","Nieul sur Mer",1
+"472","Nieuwegein",3
+"473","Nijmegen",1
+"474","Nîmes",7
+"475","Nižnij Novgorod",1
+"476","Njumbrecht Elʹzenrot",1
+"477","Nora",1
+"478","Norderstedt",7
+"479","Norimberga",1
+"480","Normal",1
+"481","North Haven",1
+"482","Novaggio",1
+"483","Noville sur Mehaigne",1
+"484","Novo Mesto",1
+"485","Novosibirsk",1
+"486","Ñuñoa",1
+"487","Nürnberg",1
+"488","Oakland",1
+"489","Oban",1
+"490","Ober Flörsheim",1
+"491","Odder",1
+"492","Odense",1
+"493","Oiartzun",1
+"494","Olomouc",9
+"495","Olsztyn",4
+"496","Opole",4
+"497","Orbe",1
+"498","Oroslavje",1
+"499","Ortona",1
+"500","Ōsaka",1
+"501","Oslo",25
+"502","Ostheim Rhön",1
+"503","Ostrava",2
+"504","Ottawa",2
+"505","Oud Beijerland",1
+"506","Oxford",4
+"507","Paderborn",1
+"508","Padova",1
+"509","Palencia",1
+"510","Palermo",9
+"511","Palma de Mallorca",1
+"512","Pantin",1
+"513","Pardubice",1
+"514","Paris",299
+"515","Pasian di Prato",3
+"516","Passau",1
+"517","Pavia",1
+"518","Pécs",7
+"519","Péronnas",3
+"520","Pesaro",1
+"521","Petrópolis",2
+"522","Pforzheim",1
+"523","Philadelphia",2
+"524","Phoenix",1
+"525","Pisa",3
+"526","Pistoia",2
+"527","Plombières les Dijon",1
+"528","Plovdiv",14
+"529","Pöllauberg",1
+"530","Polná",1
+"531","Pomáz",1
+"532","Popielów",1
+"533","Pordenone",1
+"534","Port au Prince",1
+"535","Port Townsend",2
+"536","Porto",1
+"537","Porto Alegre",1
+"538","Porto Sant Elpidio",1
+"539","Poznań",19
+"540","Pozuelo de Alarcón",1
+"541","Praha",238
+"542","Praha 4",1
+"543","Princeton",1
+"544","Providence",7
+"545","Providencia",1
+"546","Pruszcz Gdański",1
+"547","Puiseaux",1
+"548","Quito",1
+"549","Radeberg",1
+"550","Radovljica",1
+"551","Rastatt",6
+"552","Rearsby",1
+"553","Regensburg",2
+"554","Reggio Emilia",1
+"555","Reichenberg",1
+"556","Reiferscheid",1
+"557","Reinbek bei Hamburg",1
+"558","Rheda Wiedenbrück",1
+"559","Rheine",1
+"560","Riehen",1
+"561","Rīgā",1
+"562","Rijeka",3
+"563","Rijen",3
+"564","Rijswijk",2
+"565","Rio de Janeiro",5
+"566","Rio Tinto",1
+"567","Rishon le Zion",1
+"568","Risskov",1
+"569","Riverside",45
+"570","Rochester",4
+"571","Rödermark",1
+"572","Rodez",1
+"573","Rødovre",1
+"574","Roma",56
+"575","Romanel sur Lausanne",1
+"576","Rosario",2
+"577","Roskilde",1
+"578","Rott am Lech",1
+"579","Rotterdam",4
+"580","Rovereto",24
+"581","Røyse",1
+"582","Ruds Vedby",1
+"583","Ruse",10
+"584","Rzeszów",1
+"585","s Hertogenbosch",2
+"586","S l",2
+"587","Saarbrjukken",1
+"588","Saarbrücken",1
+"589","Sadków",1
+"590","Saettle",1
+"591","Saint Denis",2
+"592","Saint Maurice",1
+"593","Saint Nazaire",1
+"594","Saint Pierre la Vieille",1
+"595","Saint Vincent de Mercuze",1
+"596","Saintes",1
+"597","Sala Södermalm",1
+"598","Salamanca",3
+"599","Salvador",3
+"600","Salzburg",1
+"601","Samara",1
+"602","San Diego",1
+"603","San Francisco",1
+"604","San Pietro in Cariano",1
+"605","Sandomierz",1
+"606","Sankt Peterburg",33
+"607","Santa Marta de Tormes",3
+"608","Santa Úrsula",1
+"609","Santander",2
+"610","Santiago de Chile",1
+"611","São Paulo",16
+"612","Sarajevo",1
+"613","Sausalito",1
+"614","Savage",1
+"615","Sawtry",4
+"616","Saxonville",1
+"617","Schaesberg",1
+"618","Schönkirchen",1
+"619","Schwarzenbruck",1
+"620","Schweinfurt",1
+"621","Scurelle",2
+"622","Seattle",6
+"623","Segrate",1
+"624","Šentjur",1
+"625","Sevenoaks",1
+"626","Sevilla",8
+"627","Shaftesbury",1
+"628","Siedlce",1
+"629","Siena",1
+"630","Sindelfingen",1
+"631","Sintra",1
+"632","Sirkeci",1
+"633","Şişli",1
+"634","Skivarp",1
+"635","Sławno",1
+"636","Słupsk",1
+"637","Södermalm",1
+"638","Soest",3
+"639","Soest  Niederlande",1
+"640","Soesterberg",2
+"641","Sofija",107
+"642","Somonte Cenero",1
+"643","Sopron",1
+"644","South Pasadena",1
+"645","South Royalton",1
+"646","Soveria Mannelli",1
+"647","Spanien",1
+"648","Split",1
+"649","Sremski Karlovci",7
+"650","St  Gallen",1
+"651","St  Louis",1
+"652","Stabekk",1
+"653","Stanford",1
+"654","Steinhagen",2
+"655","Stelle Wittenwurth",1
+"656","Stockholm",34
+"657","Strasbourg",7
+"658","Strassburg",1
+"659","Straßburg",1
+"660","Středokluky",1
+"661","Stronie Śląskie",1
+"662","Stuttgart",2
+"663","Sulejówek",1
+"664","Suwa",1
+"665","Swansea",1
+"666","Syracuse",1
+"667","Szczecin",1
+"668","Szczecin Bezrzecze",1
+"669","Szeged",3
+"670","Tacoma",1
+"671","Taksim",5
+"672","Tårnåsen",2
+"673","Tárnok",1
+"674","Tarragona",1
+"675","Tata",1
+"676","Techin",1
+"677","Territet",1
+"678","Thaon",2
+"679","Thessalonikē",3
+"680","Thun",1
+"681","Tielt",1
+"682","Tilburg",3
+"683","Todmorden",2
+"684","Tōkyō",72
+"685","Topkapı",2
+"686","Torino",10
+"687","Toronto",1
+"688","Torsby",1
+"689","Toruń",4
+"690","Toulouse",7
+"691","Třebíč",1
+"692","Trebur",1
+"693","Trento",4
+"694","Trenton",1
+"695","Tres Cantos",1
+"696","Trieste",1
+"697","Troy",1
+"698","Tržič",4
+"699","Tschechien",1
+"700","Tübingen",2
+"701","Tuebingen",1
+"702","Tver",1
+"703","Überlingen",1
+"704","Udine",1
+"705","Uithoorn",9
+"706","Újvidék",1
+"707","Umeå",2
+"708","Upper Ferntree Gully",1
+"709","Ursensollen",1
+"710","Üsküdar İstanbul",1
+"711","Ústí nad Labem",2
+"712","Utrecht",22
+"713","Utting",1
+"714","V Bratislavě",1
+"715","V Českých Budějovicích",1
+"716","V Ljubljani",2
+"717","V Olomouci",4
+"718","V Praze",22
+"719","Vachendorf",7
+"720","Vaerløse",1
+"721","Valence",1
+"722","Valencia",10
+"723","Valladolid",1
+"724","Vallodolid",1
+"725","Vancouver",2
+"726","Varna",3
+"727","Varnsdorf",1
+"728","Västra Frölunda",2
+"729","Vejle",1
+"730","Veliko Tărnovo",5
+"731","Velilla de San Antonio",2
+"732","Venezia",5
+"733","Veszprém",1
+"734","Vevey",8
+"735","Vianen",1
+"736","Victoria",1
+"737","Vigo",3
+"738","Vila Nova de Gaia",1
+"739","Villands V anga",1
+"740","Villaviciosa de Odón",1
+"741","Villeneuve d Ascq",1
+"742","Vimperk",3
+"743","Vitoria Gasteiz",1
+"744","Voznice",1
+"745","Vršac",2
+"746","W  Somerville",1
+"747","W Lipsku",1
+"748","Waddinxveen",2
+"749","Wadgassen",1
+"750","Waldems Steinfischbach",1
+"751","Walldorf",1
+"752","Ware",1
+"753","Warszawa",118
+"754","Waterloo",2
+"755","Weert",2
+"756","Weilburg",1
+"757","Weinsheim",1
+"758","Widnau",1
+"759","Wien",5
+"760","Wies",1
+"761","Wiesenburg",1
+"762","Wołowiec",5
+"763","Woodside",1
+"764","Wrocław",32
+"765","Würselen",1
+"766","Xixón",1
+"767","Yenibosna",2
+"768","Yvonand",2
+"769","Zagreb",44
+"770","Zaprešić",5
+"771","Zaragoza",5
+"772","Zebrzydowice",1
+"773","Zeist",2
+"774","Zirl",1
+"775","Zlín",7
+"776","Zoetermeer",2
+"777","Zug",2
+"778","Zürich",12

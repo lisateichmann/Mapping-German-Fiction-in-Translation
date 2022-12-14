@@ -1,0 +1,413 @@
+"","place","match","place_clean.x","place.y","group.y","place_clean.y","distance","Freq","latitude","longitude"
+"1","Aarhus",5,"Aarhus","Arhus",5,"Arhus",1,20,56.1496278,10.2134046
+"2","al  Qāhira",19,"al  Qahira","al Qāhira",19,"al Qahira",1,16,30.0443879,31.2357257
+"3","al Qāhira",19,"al Qahira","al  Qāhira",19,"al  Qahira",1,8,30.0443879,31.2357257
+"4","al Qāhira",19,"al Qahira","al Qāhīra",19,"al Qahira",1,8,30.0443879,31.2357257
+"5","al Qāhīra",19,"al Qahira","al Qāhira",19,"al Qahira",1,1,30.0443879,31.2357257
+"6","Arganda del Rey",45,"Arganda del Rey","Arganta del Rey",45,"Arganta del Rey",1,10,40.3007708,-3.4380688
+"7","Arganta del Rey",45,"Arganta del Rey","Arganda del Rey",45,"Arganda del Rey",1,1,NA,NA
+"8","Arhus",5,"Arhus","Aarhus",5,"Aarhus",1,8,56.1496278,10.2134046
+"9","Arhus",5,"Arhus","Århus",5,"Arhus",1,8,56.1496278,10.2134046
+"10","Århus",5,"Arhus","Arhus",5,"Arhus",1,13,56.1496278,10.2134046
+"11","Assen",53,"Assen","Assens",53,"Assens",1,2,52.99037165,6.55337777064233
+"12","Assen",53,"Assen","Essen",217,"Essen",1,2,52.99037165,6.55337777064233
+"13","Assens",53,"Assens","Assen",53,"Assen",1,1,55.265798,9.9002174
+"14","Athen",56,"Athen","Athena",56,"Athena",1,2,37.9839412,23.7283052
+"15","Athena",56,"Athena","Athen",56,"Athen",1,2,37.9839412,23.7283052
+"16","Athena",56,"Athena","Athēna",56,"Athena",1,2,37.9839412,23.7283052
+"17","Athēna",56,"Athena","Athena",56,"Athena",1,523,37.9839412,23.7283052
+"18","Athēna",56,"Athena","Athēnai",56,"Athenai",1,523,37.9839412,23.7283052
+"19","Athēnai",56,"Athenai","Athēna",56,"Athena",1,13,37.9839412,23.7283052
+"20","Bakı",69,"Baki","Baku",69,"Baku",1,25,40.3754434,49.8326748
+"21","Baku",69,"Baku","Bakı",69,"Baki",1,3,40.3754434,49.8326748
+"22","Barcellona",61,"Barcellona","Barcelona",61,"Barcelona",1,4,41.3828939,2.1774322
+"23","Barcelona",61,"Barcelona","Barcellona",61,"Barcellona",1,1942,41.3828939,2.1774322
+"24","Bari",68,"Bari","Barr",76,"Barr",1,3,41.1257843,16.8620293
+"25","Barr",76,"Barr","Bari",68,"Bari",1,2,48.4088704,7.4492808
+"26","Barth",76,"Barth","Baruth",76,"Baruth",1,1,54.3636151,12.712276932103
+"27","Barth",76,"Barth","Bath",76,"Bath",1,1,54.3636151,12.712276932103
+"28","Baruth",76,"Baruth","Barth",76,"Barth",1,2,22.4035894,78.2904839
+"29","Bath",76,"Bath","Barth",76,"Barth",1,2,51.38092635,-2.37418971512966
+"30","Baume les Dames",74,"Baume les Dames","Baumes les Dames",74,"Baumes les Dames",1,2,47.3526707,6.3614622
+"31","Baumes les Dames",74,"Baumes les Dames","Baume les Dames",74,"Baume les Dames",1,1,NA,NA
+"32","Bei jing",81,"Bei jing","Beijing",81,"Beijing",1,97,39.906217,116.3912757
+"33","Beijing",81,"Beijing","Bei jing",81,"Bei jing",1,22,39.906217,116.3912757
+"34","Belgrad",84,"Belgrad","Beograd",84,"Beograd",1,4,44.8178131,20.4568974
+"35","Beograd",84,"Beograd","Belgrad",84,"Belgrad",1,545,44.8178131,20.4568974
+"36","Berlijn",88,"Berlijn","Berlin",88,"Berlin",1,1,52.5170365,13.3888599
+"37","Berlin",88,"Berlin","Berlijn",88,"Berlijn",1,159,52.5170365,13.3888599
+"38","Bern",87,"Bern","Berno",87,"Berno",1,6,46.9482713,7.4514512
+"39","Berno",87,"Berno","Bern",87,"Bern",1,6,46.9482713,7.4514512
+"40","Berno",87,"Berno","Brno",75,"Brno",1,6,46.9482713,7.4514512
+"41","Bibao",92,"Bibao","Bilbao",92,"Bilbao",1,1,46.3532585,-0.3861914
+"42","Biel",93,"Biel","Kiel",390,"Kiel",1,1,47.1402077,7.2439029
+"43","Bilbao",92,"Bilbao","Bibao",92,"Bibao",1,10,43.2630018,-2.9350039
+"44","Bilbao",92,"Bilbao","Bilbo",92,"Bilbo",1,10,43.2630018,-2.9350039
+"45","Bilbo",92,"Bilbo","Bilbao",92,"Bilbao",1,2,43.2630018,-2.9350039
+"46","Bogota",104,"Bogota","Bogotá",104,"Bogota",1,1,4.6533326,-74.083652
+"47","Bogotá",104,"Bogota","Bogota",104,"Bogota",1,2,4.6533326,-74.083652
+"48","Bosten",106,"Bosten","Boston",106,"Boston",1,4,50.8333558,6.0448459
+"49","Boston",106,"Boston","Bosten",106,"Bosten",1,22,42.3602534,-71.0582912
+"50","Bratislava",113,"Bratislava","Bratisłava",113,"Bratislava",1,313,48.1516988,17.1093063
+"51","Bratislava",113,"Bratislava","Bratislawa",113,"Bratislawa",1,313,48.1516988,17.1093063
+"52","Bratisłava",113,"Bratislava","Bratislava",113,"Bratislava",1,1,48.1516988,17.1093063
+"53","Bratislawa",113,"Bratislawa","Bratislava",113,"Bratislava",1,1,48.1516988,17.1093063
+"54","Breda",116,"Breda","Brema",116,"Brema",1,74,51.5887845,4.7760237
+"55","Brema",116,"Brema","Breda",116,"Breda",1,1,53.0758196,8.8071646
+"56","Brno",75,"Brno","Berno",87,"Berno",1,468,49.1922443,16.6113382
+"57","Bucareşti",124,"Bucaresti","Bucureşti",124,"Bucuresti",1,1,44.4272505,26.0925202
+"58","Bucures ti",124,"Bucures ti","Bucuresti",124,"Bucuresti",1,2,NA,NA
+"59","Bucuresti",124,"Bucuresti","Bucures ti",124,"Bucures ti",1,6,44.4361414,26.1027202
+"60","Bucuresti",124,"Bucuresti","Bucureşti",124,"Bucuresti",1,6,44.4361414,26.1027202
+"61","Bucuresti",124,"Bucuresti","București",124,"Bucuresti",1,6,44.4361414,26.1027202
+"62","Bucureşti",124,"Bucuresti","Bucareşti",124,"Bucaresti",1,303,44.4361414,26.1027202
+"63","Bucureşti",124,"Bucuresti","Bucuresti",124,"Bucuresti",1,303,44.4361414,26.1027202
+"64","Bucureşti",124,"Bucuresti","București",124,"Bucuresti",1,303,44.4361414,26.1027202
+"65","Bucureşti",124,"Bucuresti","Burcureşti",124,"Burcuresti",1,303,44.4361414,26.1027202
+"66","București",124,"Bucuresti","Bucuresti",124,"Bucuresti",1,2,44.4361414,26.1027202
+"67","București",124,"Bucuresti","Bucureşti",124,"Bucuresti",1,2,44.4361414,26.1027202
+"68","Budapest",109,"Budapest","Budpest",109,"Budpest",1,1015,47.4979937,19.0403594
+"69","Budpaest",109,"Budpaest","Budpest",109,"Budpest",1,1,NA,NA
+"70","Budpest",109,"Budpest","Budapest",109,"Budapest",1,1,NA,NA
+"71","Budpest",109,"Budpest","Budpaest",109,"Budpaest",1,1,NA,NA
+"72","Budyšin",125,"Budysin","Budyšyn",125,"Budysyn",1,1,51.1813907,14.4275735
+"73","Budyšyn",125,"Budysyn","Budyšin",125,"Budysin",1,1,51.1813907,14.4275735
+"74","Burcureşti",124,"Burcuresti","Bucureşti",124,"Bucuresti",1,2,NA,NA
+"75","Burgas",128,"Burgas","Burgos",128,"Burgos",1,3,42.34484975,-3.68124765840368
+"76","Burgos",128,"Burgos","Burgas",128,"Burgas",1,2,42.34484975,-3.68124765840368
+"77","Cağadoğlu",136,"Cagadoglu","Cağaloğlu",136,"Cagaloglu",1,1,NA,NA
+"78","Cağaloğli",136,"Cagalogli","Cağaloğlu",136,"Cagaloglu",1,1,NA,NA
+"79","Cağaloğlu",136,"Cagaloglu","Cağadoğlu",136,"Cagadoglu",1,77,41.0103405,28.977377
+"80","Cağaloğlu",136,"Cagaloglu","Cağaloğli",136,"Cagalogli",1,77,41.0103405,28.977377
+"81","Cağaloğlu",136,"Cagaloglu","Cağaloğu",136,"Cagalogu",1,77,41.0103405,28.977377
+"82","Cağaloğu",136,"Cagalogu","Cağaloğlu",136,"Cagaloglu",1,2,NA,NA
+"83","Carouge Geneve",145,"Carouge Geneve","Carouge Genève",145,"Carouge Geneve",1,2,46.1846691,6.1396839
+"84","Carouge Genève",145,"Carouge Geneve","Carouge Geneve",145,"Carouge Geneve",1,66,46.1846691,6.1396839
+"85","Cernivci",155,"Cernivci","Černivci",155,"Cernivci",1,1,48.2864702,25.9376532
+"86","Černivci",155,"Cernivci","Cernivci",155,"Cernivci",1,21,48.2864702,25.9376532
+"87","Český Těšin",156,"Cesky Tesin","Český Těšín",156,"Cesky Tesin",1,1,49.7464018,18.6260976
+"88","Český Těšín",156,"Cesky Tesin","Český Těšin",156,"Cesky Tesin",1,10,49.7464018,18.6260976
+"89","Char kiv",158,"Char kiv","Char kov",158,"Char kov",1,3,NA,NA
+"90","Char kiv",158,"Char kiv","Charkiv",158,"Charkiv",1,3,NA,NA
+"91","Char kov",158,"Char kov","Char kiv",158,"Char kiv",1,42,NA,NA
+"92","Char kov",158,"Char kov","Charʹkov",158,"Char'kov",1,42,NA,NA
+"93","Char kov",158,"Char kov","Charkov",158,"Charkov",1,42,NA,NA
+"94","Charʹkov",158,"Char'kov","Char kov",158,"Char kov",1,72,49.9923181,36.2310146
+"95","Charʹkov",158,"Char'kov","Charʹov",158,"Char'ov",1,72,49.9923181,36.2310146
+"96","Charʹkov",158,"Char'kov","Charkov",158,"Charkov",1,72,49.9923181,36.2310146
+"97","Charʹov",158,"Char'ov","Charʹkov",158,"Char'kov",1,1,NA,NA
+"98","Charʹov",158,"Char'ov","Charkov",158,"Charkov",1,1,NA,NA
+"99","Charkiv",158,"Charkiv","Char kiv",158,"Char kiv",1,36,49.9923181,36.2310146
+"100","Charkiv",158,"Charkiv","Charkov",158,"Charkov",1,36,49.9923181,36.2310146
+"101","Charkov",158,"Charkov","Char kov",158,"Char kov",1,2,49.9923181,36.2310146
+"102","Charkov",158,"Charkov","Charʹkov",158,"Char'kov",1,2,49.9923181,36.2310146
+"103","Charkov",158,"Charkov","Charʹov",158,"Char'ov",1,2,49.9923181,36.2310146
+"104","Charkov",158,"Charkov","Charkiv",158,"Charkiv",1,2,49.9923181,36.2310146
+"105","Chişinău",165,"Chisinau","Chişinǎu",165,"Chisinau",1,3,47.0245117,28.8322923
+"106","Chişinǎu",165,"Chisinau","Chişinău",165,"Chisinau",1,1,47.0245117,28.8322923
+"107","Coira",180,"Coira","Cuira",185,"Cuira",1,1,46.854747,9.5264904
+"108","Copenhagen",184,"Copenhagen","Kopenhagen",184,"Kopenhagen",1,14,55.6867243,12.5700724
+"109","Cuera",185,"Cuera","Cuira",185,"Cuira",1,2,-1.030148,-46.7531429
+"110","Cuira",185,"Cuira","Coira",180,"Coira",1,3,46.854747,9.5264904
+"111","Cuira",185,"Cuira","Cuera",185,"Cuera",1,3,46.854747,9.5264904
+"112","Den Haag",201,"Den Haag","DenHaag",201,"DenHaag",1,6,52.0799838,4.3113461
+"113","DenHaag",201,"DenHaag","Den Haag",201,"Den Haag",1,3,NA,NA
+"114","Dublin",88,"Dublin","Lublin",88,"Lublin",1,5,53.3497645,-6.2602732
+"115","Eislingen",229,"Eislingen","Esslingen",229,"Esslingen",1,1,48.6967865,9.7037748
+"116","Essen",217,"Essen","Assen",53,"Assen",1,1,51.4582235,7.0158171
+"117","Esslingen",229,"Esslingen","Eislingen",229,"Eislingen",1,1,48.7427584,9.3071685
+"118","Evian les Bains",247,"Evian les Bains","Évian les Bains",247,"Evian les Bains",1,3,46.3910965,6.58133104180146
+"119","Évian les Bains",247,"Evian les Bains","Evian les Bains",247,"Evian les Bains",1,1,46.3910965,6.58133104180146
+"120","Frankfurt  M",266,"Frankfurt  M","Frankfurt a M",266,"Frankfurt a M",1,1,50.1066539,8.6625808
+"121","Frankfurt  M",266,"Frankfurt  M","Frankfurt M",266,"Frankfurt M",1,1,50.1066539,8.6625808
+"122","Frankfurt a M",266,"Frankfurt a M","Frankfurt  M",266,"Frankfurt  M",1,1,50.1106444,8.6820917
+"123","Frankfurt M",266,"Frankfurt M","Frankfurt  M",266,"Frankfurt  M",1,2,50.1066539,8.6625808
+"124","Gdansk",278,"Gdansk","Gdanśk",278,"Gdansk",1,1,54.36119285,18.6286088336207
+"125","Gdansk",278,"Gdansk","Gdańsk",278,"Gdansk",1,1,54.36119285,18.6286088336207
+"126","Gdanśk",278,"Gdansk","Gdansk",278,"Gdansk",1,1,54.36119285,18.6286088336207
+"127","Gdańsk",278,"Gdansk","Gdansk",278,"Gdansk",1,41,54.36119285,18.6286088336207
+"128","Geneve",280,"Geneve","Genève",280,"Geneve",1,1,46.2017559,6.1466014
+"129","Genève",280,"Geneve","Geneve",280,"Geneve",1,34,46.2017559,6.1466014
+"130","Genf",280,"Genf","Gent",280,"Gent",1,3,46.2017559,6.1466014
+"131","Gent",280,"Gent","Genf",280,"Genf",1,8,51.0538286,3.7250121
+"132","Gui lin",303,"Gui lin","Guilin",303,"Guilin",1,2,25.238704,110.1750728
+"133","Guilin",303,"Guilin","Gui lin",303,"Gui lin",1,7,25.238704,110.1750728
+"134","Ha Nôi",309,"Ha Noi","Ha Nội",309,"Ha Noi",1,1,21.0294498,105.8544441
+"135","Ha Nôi",309,"Ha Noi","Hà Nôi",309,"Ha Noi",1,1,21.0294498,105.8544441
+"136","Ha Nội",309,"Ha Noi","Ha Nôi",309,"Ha Noi",1,1,21.0294498,105.8544441
+"137","Ha Nội",309,"Ha Noi","Hà Nội",309,"Ha Noi",1,1,21.0294498,105.8544441
+"138","Hà Nôi",309,"Ha Noi","Ha Nôi",309,"Ha Noi",1,36,21.0294498,105.8544441
+"139","Hà Nôi",309,"Ha Noi","Hà Nội",309,"Ha Noi",1,36,21.0294498,105.8544441
+"140","Hà Nội",309,"Ha Noi","Ha Nội",309,"Ha Noi",1,12,21.0294498,105.8544441
+"141","Hà Nội",309,"Ha Noi","Hà Nôi",309,"Ha Noi",1,12,21.0294498,105.8544441
+"142","Hamburg",34,"Hamburg","Homburg",176,"Homburg",1,25,53.550341,10.000654
+"143","Hang zhou",313,"Hang zhou","Hangzhou",313,"Hangzhou",1,1,30.2489634,120.2052342
+"144","Hangzhou",313,"Hangzhou","Hang zhou",313,"Hang zhou",1,2,30.2489634,120.2052342
+"145","Hannover",314,"Hannover","Hanover",314,"Hanover",1,3,52.3744779,9.7385532
+"146","Hanover",314,"Hanover","Hannover",314,"Hannover",1,3,52.3744779,9.7385532
+"147","Helsinke",324,"Helsinke","Helsinki",324,"Helsinki",1,1,NA,NA
+"148","Helsinki",324,"Helsinki","Helsinke",324,"Helsinke",1,222,60.1674881,24.9427473
+"149","Hexam",163,"Hexam","Hexham",163,"Hexham",1,1,-31.940197,151.0890547
+"150","Hexham",163,"Hexham","Hexam",163,"Hexam",1,1,54.971478,-2.1017927
+"151","Hò Chí Minh",331,"Ho Chi Minh","Hô Chí Minh",331,"Ho Chi Minh",1,2,10.7758439,106.7017555
+"152","Hô Chí Minh",331,"Ho Chi Minh","Hò Chí Minh",331,"Ho Chi Minh",1,1,10.7758439,106.7017555
+"153","Hojbjerg",336,"Hojbjerg","Højbjerg",336,"Hojbjerg",1,1,56.1136618,10.1903165
+"154","Højbjerg",336,"Hojbjerg","Hojbjerg",336,"Hojbjerg",1,18,56.1136618,10.1903165
+"155","Homburg",176,"Homburg","Hamburg",34,"Hamburg",1,2,49.3181673,7.3340336
+"156","Hoorn",339,"Hoorn","Horn",339,"Horn",1,3,52.62254545,5.06772658814782
+"157","Horn",339,"Horn","Hoorn",339,"Hoorn",1,1,52.62254545,5.06772658814782
+"158","Iaşi",347,"Iasi","Iași",347,"Iasi",1,67,47.1615341,27.5836142
+"159","Iași",347,"Iasi","Iaşi",347,"Iasi",1,1,47.1615341,27.5836142
+"160","Imola",352,"Imola","Izola",352,"Izola",1,1,44.3535145,11.7141233
+"161","Irun",282,"Irun","Irún",282,"Irun",1,3,43.3383176,-1.7888095
+"162","Irun",282,"Irun","Trun",754,"Trun",1,3,43.3383176,-1.7888095
+"163","Irún",282,"Irun","Irun",282,"Irun",1,7,43.3383176,-1.7888095
+"164","Iruña",357,"Iruna","Iruñea",357,"Irunea",1,1,42.8184538,-1.6442556
+"165","Iruñea",357,"Irunea","Iruña",357,"Iruna",1,6,42.8184538,-1.6442556
+"166","Istanbul",360,"Istanbul","İstanbul",360,"Istanbul",1,34,41.0091982,28.9662187
+"167","İstanbul",360,"Istanbul","Istanbul",360,"Istanbul",1,230,41.0091982,28.9662187
+"168","Ivano Frankifs k",361,"Ivano Frankifs k","Ivano Frankivs k",361,"Ivano Frankivs k",1,1,NA,NA
+"169","Ivano Frankivs k",361,"Ivano Frankivs k","Ivano Frankifs k",361,"Ivano Frankifs k",1,2,48.9225224,24.7103188
+"170","Ivano Frankivs k",361,"Ivano Frankivs k","Ivano Frankivsʹk",361,"Ivano Frankivs'k",1,2,48.9225224,24.7103188
+"171","Ivano Frankivsʹk",361,"Ivano Frankivs'k","Ivano Frankivs k",361,"Ivano Frankivs k",1,2,48.7481718,24.5207477
+"172","Izola",352,"Izola","Imola",352,"Imola",1,2,45.5398936,13.65939
+"173","Kalinigrad",375,"Kalinigrad","Kaliningrad",375,"Kaliningrad",1,1,41.1550594,77.7887907
+"174","Kaliningrad",375,"Kaliningrad","Kalinigrad",375,"Kalinigrad",1,5,54.710128,20.5105838
+"175","Kaliningrad",375,"Kaliningrad","Kaliningrado",375,"Kaliningrado",1,5,54.710128,20.5105838
+"176","Kaliningrado",375,"Kaliningrado","Kaliningrad",375,"Kaliningrad",1,1,54.710128,20.5105838
+"177","Katowice",379,"Katowice","Kazowice",379,"Kazowice",1,277,50.2137321,19.0058877566063
+"178","Kazowice",379,"Kazowice","Katowice",379,"Katowice",1,1,NA,NA
+"179","Kiel",390,"Kiel","Biel",93,"Biel",1,2,54.3227085,10.135555
+"180","Kiel",390,"Kiel","Kiev",390,"Kiev",1,2,54.3227085,10.135555
+"181","Kiev",390,"Kiev","Kiel",390,"Kiel",1,4,50.4500336,30.5241361
+"182","Københaven",398,"Kobenhaven","København",398,"Kobenhavn",1,1,NA,NA
+"183","Kobenhavn",398,"Kobenhavn","København",398,"Kobenhavn",1,3,55.6867243,12.5700724
+"184","København",398,"Kobenhavn","Københaven",398,"Kobenhaven",1,357,55.6867243,12.5700724
+"185","København",398,"Kobenhavn","Kobenhavn",398,"Kobenhavn",1,357,55.6867243,12.5700724
+"186","København",398,"Kobenhavn","Købnhavn",398,"Kobnhavn",1,357,55.6867243,12.5700724
+"187","København",398,"Kobenhavn","Køvenhavn",398,"Kovenhavn",1,357,55.6867243,12.5700724
+"188","Købnhavn",398,"Kobnhavn","København",398,"Kobenhavn",1,2,NA,NA
+"189","Kopenhagen",184,"Kopenhagen","Copenhagen",184,"Copenhagen",1,11,55.6867243,12.5700724
+"190","Korntal",401,"Korntal","Korntalʹ",401,"Korntal'",1,11,48.8296536,9.1233501
+"191","Korntalʹ",401,"Korntal'","Korntal",401,"Korntal",1,1,48.8296536,9.1233501
+"192","Kostelmí Vydří",403,"Kostelmi Vydri","Kostelní Vydří",403,"Kostelni Vydri",1,1,NA,NA
+"193","Kostelní Vydří",403,"Kostelni Vydri","Kostelmí Vydří",403,"Kostelmi Vydri",1,43,49.1060609,15.4216563
+"194","Køvenhavn",398,"Kovenhavn","København",398,"Kobenhavn",1,1,NA,NA
+"195","Krakow",406,"Krakow","Kraków",406,"Krakow",1,2,50.0619474,19.9368564
+"196","Kraków",406,"Krakow","Krakow",406,"Krakow",1,213,50.0619474,19.9368564
+"197","Kraljelo",407,"Kraljelo","Kraljevo",407,"Kraljevo",1,1,NA,NA
+"198","Kraljevo",407,"Kraljevo","Kraljelo",407,"Kraljelo",1,1,43.7234519,20.6870792
+"199","Kyiv",416,"Kyiv","Kyïv",416,"Kyiv",1,2,50.4500336,30.5241361
+"200","Kyïv",416,"Kyiv","Kyiv",416,"Kyiv",1,3,50.4500336,30.5241361
+"201","L viv",419,"L viv","L vov",419,"L vov",1,6,1.3154259,103.840372198106
+"202","L viv",419,"L viv","Lʹviv",420,"L'viv",1,6,1.3154259,103.840372198106
+"203","L vov",419,"L vov","L viv",419,"L viv",1,1,43.3214324,132.3591215
+"204","Lʹviv",420,"L'viv","L viv",419,"L viv",1,14,49.841952,24.0315921
+"205","La Habana",422,"La Habana","LaHabana",422,"LaHabana",1,4,23.135305,-82.3589631
+"206","La Spezia",423,"La Spezia","LaSpezia",423,"LaSpezia",1,1,44.23836595,9.69123263454754
+"207","La Tour d Aigues",424,"La Tour d Aigues","LaTour d Aigues",424,"LaTour d Aigues",1,4,43.724804,5.5477306
+"208","LaHabana",422,"LaHabana","La Habana",422,"La Habana",1,2,-8.9269743,-76.1132666
+"209","Laon",286,"Laon","Lyon",286,"Lyon",1,1,49.564665,3.620686
+"210","LaSpezia",423,"LaSpezia","La Spezia",423,"La Spezia",1,3,51.2231015,18.5625478
+"211","LaTour d Aigues",424,"LaTour d Aigues","La Tour d Aigues",424,"La Tour d Aigues",1,4,44.8803799,2.9797465
+"212","Le Chambon sur Lignon",431,"Le Chambon sur Lignon","LeChambon sur Lignon",431,"LeChambon sur Lignon",1,4,45.060809,4.302941
+"213","LeChambon sur Lignon",431,"LeChambon sur Lignon","Le Chambon sur Lignon",431,"Le Chambon sur Lignon",1,1,NA,NA
+"214","Leiden",438,"Leiden","Weiden",727,"Weiden",1,2,52.1518157,4.48110886662043
+"215","Libeznice",448,"Libeznice","Líbeznice",448,"Libeznice",1,1,50.1921305,14.4938986
+"216","Líbeznice",448,"Libeznice","Libeznice",448,"Libeznice",1,13,50.1921305,14.4938986
+"217","Lisboa",450,"Lisboa","Lisbõa",450,"Lisboa",1,251,38.7077507,-9.1365919
+"218","Lisbõa",450,"Lisboa","Lisboa",450,"Lisboa",1,1,38.7077507,-9.1365919
+"219","Los Angeles",462,"Los Angeles","LosAngeles",462,"LosAngeles",1,6,34.0536909,-118.242766
+"220","LosAngeles",462,"LosAngeles","Los Angeles",462,"Los Angeles",1,6,-8.4569081,-77.2970344
+"221","Lublin",88,"Lublin","Dublin",88,"Dublin",1,14,51.2181945,22.5546775621452
+"222","Lyon",286,"Lyon","Laon",286,"Laon",1,6,45.7578137,4.8320114
+"223","Mensk",486,"Mensk","Minsk",486,"Minsk",1,1,53.9024716,27.5618225
+"224","Meran",488,"Meran","Merano",488,"Merano",1,1,46.6695547,11.1594185
+"225","Merano",488,"Merano","Meran",488,"Meran",1,1,46.6695547,11.1594185
+"226","Mexico",491,"Mexico","México",491,"Mexico",1,1,23.6585116,-102.0077097
+"227","México",491,"Mexico","Mexico",491,"Mexico",1,53,23.6585116,-102.0077097
+"228","Minsk",486,"Minsk","Mensk",486,"Mensk",1,48,53.9024716,27.5618225
+"229","Moskv",500,"Moskv","Moskva",500,"Moskva",1,1,55.7504461,37.6174943
+"230","Moskva",500,"Moskva","Moskv",500,"Moskv",1,785,55.7504461,37.6174943
+"231","Moskva",500,"Moskva","Moskwa",500,"Moskwa",1,785,55.7504461,37.6174943
+"232","Moskwa",500,"Moskwa","Moskva",500,"Moskva",1,1,55.7504461,37.6174943
+"233","Naī Dillī",516,"Nai Dilli","Nayī Dillī",516,"Nayi Dilli",1,5,28.6138954,77.2090057
+"234","Nan jing",518,"Nan jing","Nan ning",518,"Nan ning",1,20,32.0615652,118.7915079
+"235","Nan jing",518,"Nan jing","Nanjing",518,"Nanjing",1,20,32.0615652,118.7915079
+"236","Nan jing shi",518,"Nan jing shi","Nan jing Shi",518,"Nan jing Shi",1,2,32.0615652,118.7915079
+"237","Nan jing Shi",518,"Nan jing Shi","Nan jing shi",518,"Nan jing shi",1,2,32.0615652,118.7915079
+"238","Nan ning",518,"Nan ning","Nan jing",518,"Nan jing",1,2,22.8193063,108.3627211
+"239","Nanjing",518,"Nanjing","Nan jing",518,"Nan jing",1,11,32.0615652,118.7915079
+"240","Nayī Dillī",516,"Nayi Dilli","Naī Dillī",516,"Nai Dilli",1,3,12.9166951,77.6731828
+"241","Palencia",571,"Palencia","Valencia",571,"Valencia",1,2,42.4096322,-4.61610041029307
+"242","Palma",570,"Palma","Parma",570,"Parma",1,12,39.5695818,2.6500745
+"243","Parma",570,"Parma","Palma",570,"Palma",1,43,44.8013678,10.3280833
+"244","Piteşti",589,"Pitesti","Pitești",589,"Pitesti",1,19,44.8572343,24.8719422
+"245","Pitești",589,"Pitesti","Piteşti",589,"Pitesti",1,1,44.8572343,24.8719422
+"246","Porto",597,"Porto","Pôrto",588,"Porto",1,41,41.1494512,-8.6107884
+"247","Pôrto",588,"Porto","Porto",597,"Porto",1,1,41.1494512,-8.6107884
+"248","Poznan",594,"Poznan","Poznań",594,"Poznan",1,3,52.4006632,16.9197325917809
+"249","Poznań",594,"Poznan","Poznan",594,"Poznan",1,126,52.4006632,16.9197325917809
+"250","Pozuelo de Alarcon",573,"Pozuelo de Alarcon","Pozuelo de Alarcón",573,"Pozuelo de Alarcon",1,1,40.4346528,-3.814834
+"251","Pozuelo de Alarcón",573,"Pozuelo de Alarcon","Pozuelo de Alarcon",573,"Pozuelo de Alarcon",1,6,40.4346528,-3.814834
+"252","Prishtine",602,"Prishtine","Prishtinë",602,"Prishtine",1,2,42.6638771,21.1640849
+"253","Prishtinë",602,"Prishtine","Prishtine",602,"Prishtine",1,4,42.6638771,21.1640849
+"254","Prudnik",604,"Prudnik","Prudník",604,"Prudnik",1,1,50.3217212,17.5801041
+"255","Prudník",604,"Prudnik","Prudnik",604,"Prudnik",1,1,50.3217212,17.5801041
+"256","Pula",605,"Pula","Tula",270,"Tula",1,1,44.8702281,13.8455311
+"257","Ramat Gan",610,"Ramat Gan","Rāmat Gan",610,"Ramat Gan",1,2,32.0686867,34.8246812
+"258","Rāmat Gan",610,"Ramat Gan","Ramat Gan",610,"Ramat Gan",1,8,32.0686867,34.8246812
+"259","Reykjavik",623,"Reykjavik","Reykjavík",623,"Reykjavik",1,4,64.145981,-21.9422367
+"260","Reykjavík",623,"Reykjavik","Reykjavik",623,"Reykjavik",1,37,64.145981,-21.9422367
+"261","Riga",628,"Riga","Rigā",628,"Riga",1,22,56.9493977,24.1051846
+"262","Riga",628,"Riga","Rīga",629,"Riga",1,22,56.9493977,24.1051846
+"263","Rigā",628,"Riga","Riga",628,"Riga",1,7,56.9493977,24.1051846
+"264","Rigā",628,"Riga","Rīgā",629,"Riga",1,7,56.9493977,24.1051846
+"265","Rīga",629,"Riga","Riga",628,"Riga",1,36,56.9493977,24.1051846
+"266","Rīga",629,"Riga","Rīgã",629,"Riga",1,36,56.9493977,24.1051846
+"267","Rīga",629,"Riga","Rīgā",629,"Riga",1,36,56.9493977,24.1051846
+"268","Rīgã",629,"Riga","Rīga",629,"Riga",1,1,56.9493977,24.1051846
+"269","Rīgã",629,"Riga","Rīgā",629,"Riga",1,1,56.9493977,24.1051846
+"270","Rīgā",629,"Riga","Rigā",628,"Riga",1,303,56.9493977,24.1051846
+"271","Rīgā",629,"Riga","Rīga",629,"Riga",1,303,56.9493977,24.1051846
+"272","Rīgā",629,"Riga","Rīgã",629,"Riga",1,303,56.9493977,24.1051846
+"273","Roma",118,"Roma","Ruma",507,"Ruma",1,326,41.8933203,12.4829321
+"274","Ruma",507,"Ruma","Roma",118,"Roma",1,1,41.8933203,12.4829321
+"275","S  Angela in Formis",650,"S  Angela in Formis","S  Angelo in Formis",650,"S  Angelo in Formis",1,1,NA,NA
+"276","S  Angelo in Formis",650,"S  Angelo in Formis","S  Angela in Formis",650,"S  Angela in Formis",1,4,41.1195312,14.2507938
+"277","s  l",650,"s  l","S  l",650,"S  l",1,1,35.57525385,-78.7423734349937
+"278","s  l",650,"s  l","s l",650,"s l",1,1,35.57525385,-78.7423734349937
+"279","S  l",650,"S  l","s  l",650,"s  l",1,1,35.57525385,-78.7423734349937
+"280","S  l",650,"S  l","S l",650,"S l",1,1,35.57525385,-78.7423734349937
+"281","s l",650,"s l","s  l",650,"s  l",1,1,35.57525385,-78.7423734349937
+"282","s l",650,"s l","S l",650,"S l",1,1,35.57525385,-78.7423734349937
+"283","S l",650,"S l","S  l",650,"S  l",1,10,35.57525385,-78.7423734349937
+"284","S l",650,"S l","s l",650,"s l",1,10,35.57525385,-78.7423734349937
+"285","Saint Pierre la Vieille",655,"Saint Pierre la Vieille","Saint Pierre La Vieille",655,"Saint Pierre La Vieille",1,7,48.9188612,-0.5754629
+"286","Saint Pierre La Vieille",655,"Saint Pierre La Vieille","Saint Pierre la Vieille",655,"Saint Pierre la Vieille",1,2,48.9188612,-0.5754629
+"287","San Cugat del Vallés",193,"San Cugat del Valles","Sant Cugat del Vallés",193,"Sant Cugat del Valles",1,1,41.4728432,2.0817809
+"288","Sankt Peterburg",234,"Sankt Peterburg","Sankt Petersburg",234,"Sankt Petersburg",1,275,59.938732,30.316229
+"289","Sankt Petersburg",234,"Sankt Petersburg","Sankt Peterburg",234,"Sankt Peterburg",1,1,59.938732,30.316229
+"290","Sant Cugat del Vallés",193,"Sant Cugat del Valles","San Cugat del Vallés",193,"San Cugat del Valles",1,1,41.4728432,2.0817809
+"291","Sao José do Rio Preto",664,"Sao Jose do Rio Preto","São José do Rio Preto",664,"Sao Jose do Rio Preto",1,1,-20.8125851,-49.3804212
+"292","São José do Rio Preto",664,"Sao Jose do Rio Preto","Sao José do Rio Preto",664,"Sao Jose do Rio Preto",1,1,-20.8125851,-49.3804212
+"293","Sao Paulo",665,"Sao Paulo","São Paulo",665,"Sao Paulo",1,1,-23.5506507,-46.6333824
+"294","São Paulo",665,"Sao Paulo","Sao Paulo",665,"Sao Paulo",1,170,-23.5506507,-46.6333824
+"295","Senica",679,"Senica","Zenica",836,"Zenica",1,5,48.6787557,17.3661529
+"296","Shang hai",160,"Shang hai","Shanghai",160,"Shanghai",1,88,31.2322758,121.4692071
+"297","Shanghai",160,"Shanghai","Shang hai",160,"Shang hai",1,15,31.2322758,121.4692071
+"298","Smalensk",683,"Smalensk","Smolensk",683,"Smolensk",1,1,54.7814057,32.0461261
+"299","Smederevo",695,"Smederevo","Smederovo",695,"Smederovo",1,7,44.6651048,20.9271115
+"300","Smederovo",695,"Smederovo","Smederevo",695,"Smederevo",1,1,NA,NA
+"301","Smolensk",683,"Smolensk","Smalensk",683,"Smalensk",1,1,54.7814057,32.0461261
+"302","Sofia",682,"Sofia","Sofija",682,"Sofija",1,20,-15.2538402,48.2562163
+"303","Sofia",682,"Sofia","Sofjia",682,"Sofjia",1,20,-15.2538402,48.2562163
+"304","Sofija",682,"Sofija","Sofia",682,"Sofia",1,584,42.6978634,23.3221789
+"305","Sofjia",682,"Sofjia","Sofia",682,"Sofia",1,1,NA,NA
+"306","Sremski Karlovci",633,"Sremski Karlovci","Sremski Karlovici",633,"Sremski Karlovici",1,8,45.2030463,19.9338336
+"307","Sremski Karlovici",633,"Sremski Karlovici","Sremski Karlovci",633,"Sremski Karlovci",1,1,45.2030463,19.9338336
+"308","T bilisi",732,"T bilisi","T bilissi",732,"T bilissi",1,71,41.707901,44.8029548
+"309","T bilisi",732,"T bilisi","Tʹbilisi",732,"T'bilisi",1,71,41.707901,44.8029548
+"310","T bilisi",732,"T bilisi","Tbilisi",732,"Tbilisi",1,71,41.707901,44.8029548
+"311","T bilissi",732,"T bilissi","T bilisi",732,"T bilisi",1,1,NA,NA
+"312","T bilissi",732,"T bilissi","Tbilissi",732,"Tbilissi",1,1,NA,NA
+"313","Tʹbilisi",732,"T'bilisi","T bilisi",732,"T bilisi",1,1,41.6934591,44.8014495
+"314","Tʹbilisi",732,"T'bilisi","Tbilisi",732,"Tbilisi",1,1,41.6934591,44.8014495
+"315","Tai be",738,"Tai be","Tai bei",738,"Tai bei",1,2,50.9393399,5.16851025824197
+"316","Tai bei",738,"Tai bei","Tai be",738,"Tai be",1,112,25.0375198,121.5636796
+"317","Tai bei",738,"Tai bei","Taibei",738,"Taibei",1,112,25.0375198,121.5636796
+"318","Tai bei shi",738,"Tai bei shi","Tai bei Shi",738,"Tai bei Shi",1,1,25.0375198,121.5636796
+"319","Tai bei shi",738,"Tai bei shi","Taibei shi",738,"Taibei shi",1,1,25.0375198,121.5636796
+"320","Tai bei Shi",738,"Tai bei Shi","Tai bei shi",738,"Tai bei shi",1,7,25.0375198,121.5636796
+"321","Tai bei Shi",738,"Tai bei Shi","Taibei Shi",738,"Taibei Shi",1,7,25.0375198,121.5636796
+"322","Taibei",738,"Taibei","Tai bei",738,"Tai bei",1,8,25.0375198,121.5636796
+"323","Taibei shi",738,"Taibei shi","Tai bei shi",738,"Tai bei shi",1,1,25.0375198,121.5636796
+"324","Taibei shi",738,"Taibei shi","Taibei Shi",738,"Taibei Shi",1,1,25.0375198,121.5636796
+"325","Taibei Shi",738,"Taibei Shi","Tai bei Shi",738,"Tai bei Shi",1,1,25.0375198,121.5636796
+"326","Taibei Shi",738,"Taibei Shi","Taibei shi",738,"Taibei shi",1,1,25.0375198,121.5636796
+"327","Taibei Shi",738,"Taibei Shi","Taibei Si",738,"Taibei Si",1,1,25.0375198,121.5636796
+"328","Taibei Si",738,"Taibei Si","Taibei Shi",738,"Taibei Shi",1,1,34.490729,107.332195
+"329","Tallin",739,"Tallin","Tallinn",739,"Tallinn",1,1,59.4372155,24.7453688
+"330","Tallinn",739,"Tallinn","Tallin",739,"Tallin",1,372,59.4372155,24.7453688
+"331","Tbilisi",732,"Tbilisi","T bilisi",732,"T bilisi",1,3,41.6934591,44.8014495
+"332","Tbilisi",732,"Tbilisi","Tʹbilisi",732,"T'bilisi",1,3,41.6934591,44.8014495
+"333","Tbilisi",732,"Tbilisi","Tbilissi",732,"Tbilissi",1,3,41.6934591,44.8014495
+"334","Tbilissi",732,"Tbilissi","T bilissi",732,"T bilissi",1,2,41.6934591,44.8014495
+"335","Tbilissi",732,"Tbilissi","Tbilisi",732,"Tbilisi",1,2,41.6934591,44.8014495
+"336","Teheran",746,"Teheran","Tehran",746,"Tehran",1,2,35.6892523,51.3896004
+"337","Tehran",746,"Tehran","Teheran",746,"Teheran",1,1,35.6892523,51.3896004
+"338","Tehran",746,"Tehran","Tihran",755,"Tihran",1,1,35.6892523,51.3896004
+"339","Thessalonikē",753,"Thessalonike","Thessalonlikē",753,"Thessalonlike",1,13,40.6403167,22.9352716
+"340","Thessalonlikē",753,"Thessalonlike","Thessalonikē",753,"Thessalonike",1,1,NA,NA
+"341","Thun",754,"Thun","Trun",754,"Trun",1,1,46.7582827,7.628086
+"342","Tihran",755,"Tihran","Tehran",746,"Tehran",1,1,NA,NA
+"343","Tihran",755,"Tihran","Tihrān",755,"Tihran",1,1,NA,NA
+"344","Tihrān",755,"Tihran","Tihran",755,"Tihran",1,130,NA,NA
+"345","Tirana",755,"Tirana","Tirane",755,"Tirane",1,5,41.3281482,19.8184435
+"346","Tirana",755,"Tirana","Tiranë",755,"Tirane",1,5,41.3281482,19.8184435
+"347","Tirana",755,"Tirana","Tirano",755,"Tirano",1,5,41.3281482,19.8184435
+"348","Tirane",755,"Tirane","Tirana",755,"Tirana",1,37,41.3281482,19.8184435
+"349","Tirane",755,"Tirane","Tiranë",755,"Tirane",1,37,41.3281482,19.8184435
+"350","Tirane",755,"Tirane","Tirano",755,"Tirano",1,37,41.3281482,19.8184435
+"351","Tiranë",755,"Tirane","Tirana",755,"Tirana",1,48,41.3281482,19.8184435
+"352","Tiranë",755,"Tirane","Tirane",755,"Tirane",1,48,41.3281482,19.8184435
+"353","Tiranë",755,"Tirane","Tirano",755,"Tirano",1,48,41.3281482,19.8184435
+"354","Tirano",755,"Tirano","Tirana",755,"Tirana",1,1,41.3281482,19.8184435
+"355","Tirano",755,"Tirano","Tirane",755,"Tirane",1,1,41.3281482,19.8184435
+"356","Tirano",755,"Tirano","Tiranë",755,"Tirane",1,1,41.3281482,19.8184435
+"357","Tokyōto",757,"Tokyoto","Tōkyōto",757,"Tokyoto",1,1,-33.4382751,-70.6494805
+"358","Tōkyōto",757,"Tokyoto","Tokyōto",757,"Tokyoto",1,120,-33.4382751,-70.6494805
+"359","Torun",754,"Torun","Toruń",760,"Torun",1,1,53.0145361,18.5965831446516
+"360","Torun",754,"Torun","Torún",760,"Torun",1,1,53.0145361,18.5965831446516
+"361","Torun",754,"Torun","Trun",754,"Trun",1,1,53.0145361,18.5965831446516
+"362","Toruń",760,"Torun","Torun",754,"Torun",1,10,53.0145361,18.5965831446516
+"363","Torún",760,"Torun","Torun",754,"Torun",1,1,53.0145361,18.5965831446516
+"364","Trento",763,"Trento","Trenton",763,"Trenton",1,18,46.1030443,11.1298403316951
+"365","Trenton",763,"Trenton","Trento",763,"Trento",1,1,40.2170575,-74.7429463
+"366","Trun",754,"Trun","Irun",282,"Irun",1,1,48.8430632,0.033079
+"367","Trun",754,"Trun","Thun",754,"Thun",1,1,48.8430632,0.033079
+"368","Trun",754,"Trun","Torun",754,"Torun",1,1,48.8430632,0.033079
+"369","Tula",270,"Tula","Pula",605,"Pula",1,1,45.2678347,1.7706797
+"370","Turich",767,"Turich","Zurich",631,"Zurich",1,2,41.8647153,1.9698943
+"371","Tver",740,"Tver","Tverʹ",740,"Tver'",1,1,56.858675,35.9208284
+"372","Tverʹ",740,"Tver'","Tver",740,"Tver",1,3,56.858675,35.9208284
+"373","V Bratislave",113,"V Bratislave","V Bratislavě",113,"V Bratislave",1,3,48.1425382,17.1063047032882
+"374","V Bratislavě",113,"V Bratislave","V Bratislave",113,"V Bratislave",1,1,48.1425382,17.1063047032882
+"375","V Praza",783,"V Praza","V Praze",783,"V Praze",1,1,59.94227,30.2774344
+"376","V Praze",783,"V Praze","V Praza",783,"V Praza",1,107,50.1029026,14.3946353
+"377","Valencia",571,"Valencia","Palencia",571,"Palencia",1,34,39.4697065,-0.3763353
+"378","Valencia",571,"Valencia","València",571,"Valencia",1,34,39.4697065,-0.3763353
+"379","València",571,"Valencia","Valencia",571,"Valencia",1,12,39.4697065,-0.3763353
+"380","Valladolid",784,"Valladolid","Vallodolid",784,"Vallodolid",1,9,41.6521328,-4.728562
+"381","Vallodolid",784,"Vallodolid","Valladolid",784,"Valladolid",1,2,NA,NA
+"382","Varazdin",788,"Varazdin","Varaždin",788,"Varazdin",1,1,46.31267315,16.3510190970873
+"383","Varaždin",788,"Varazdin","Varazdin",788,"Varazdin",1,2,46.31267315,16.3510190970873
+"384","Viby",798,"Viby","Visby",798,"Visby",1,2,28.42074785,79.4467280438574
+"385","Vilnius",794,"Vilnius","Vinius",794,"Vinius",1,407,54.6870458,25.2829111
+"386","Vinius",794,"Vinius","Vilnius",794,"Vilnius",1,1,51.427224,5.4868138
+"387","Visby",798,"Visby","Viby",798,"Viby",1,1,57.6379361,18.297982
+"388","Warszawa",812,"Warszawa","Warszwa",812,"Warszwa",1,744,52.2319581,21.0067249
+"389","Warszwa",812,"Warszwa","Warszawa",812,"Warszawa",1,1,NA,NA
+"390","Weiden",727,"Weiden","Leiden",438,"Leiden",1,1,46.0634632,13.2358377
+"391","Weinheim",82,"Weinheim","Weinsheim",82,"Weinsheim",1,2,49.5462349,8.6717458
+"392","Weinsheim",82,"Weinsheim","Weinheim",82,"Weinheim",1,1,50.2307505,6.4716189
+"393","Wien",819,"Wien","Wies",816,"Wies",1,22,48.2083537,16.3725042
+"394","Wien",819,"Wien","Wisen",819,"Wisen",1,22,48.2083537,16.3725042
+"395","Wies",816,"Wies","Wien",819,"Wien",1,1,46.7190989,15.2702936
+"396","Wisen",819,"Wisen","Wien",819,"Wien",1,1,47.3923239,7.885972
+"397","Wolfsberg",822,"Wolfsberg","Wolfsburg",822,"Wolfsburg",1,1,46.8390583,14.8452061
+"398","Wolfsburg",822,"Wolfsburg","Wolfsberg",822,"Wolfsberg",1,1,52.4205588,10.7861682
+"399","Wroclaw",824,"Wroclaw","Wrocław",824,"Wroclaw",1,4,51.1263106,16.9781963305126
+"400","Wrocław",824,"Wroclaw","Wroclaw",824,"Wroclaw",1,156,51.1263106,16.9781963305126
+"401","Zabgreb",831,"Zabgreb","Zagreb",831,"Zagreb",1,1,NA,NA
+"402","Zagreb",831,"Zagreb","Zabgreb",831,"Zabgreb",1,325,45.84262775,15.9621956008845
+"403","Zaprešic",833,"Zapresic","Zaprešić",833,"Zapresic",1,1,45.8572728,15.8050436
+"404","Zaprešić",833,"Zapresic","Zaprešic",833,"Zapresic",1,39,45.8572728,15.8050436
+"405","Zaprešić",833,"Zapresic","Zapršić",833,"Zaprsic",1,39,45.8572728,15.8050436
+"406","Zapršić",833,"Zaprsic","Zaprešić",833,"Zapresic",1,1,NA,NA
+"407","Zenica",836,"Zenica","Senica",679,"Senica",1,4,44.199828,17.9093012
+"408","Zlin",838,"Zlin","Zlín",838,"Zlin",1,1,49.226766,17.6667415
+"409","Zlín",838,"Zlin","Zlin",838,"Zlin",1,37,49.226766,17.6667415
+"410","Zurich",631,"Zurich","Turich",767,"Turich",1,10,47.3744489,8.5410422
+"411","Zurich",631,"Zurich","Zürich",631,"Zurich",1,10,47.3744489,8.5410422
+"412","Zürich",631,"Zurich","Zurich",631,"Zurich",1,76,47.3744489,8.5410422
