@@ -11,6 +11,11 @@ This thesis project is dedicated to making translations visible and disentanglin
 
 **Scripts** contains R scripts for social network analysis, descriptive statistics, and geographic mapping that have been developed to produce tables and figures in the **Thesis appendix** folder
 
+## Media material
+
+For a brief discussion on results and a presentation of the model:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wa2dXq6tpD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## License
 
 This work is licensed under a
