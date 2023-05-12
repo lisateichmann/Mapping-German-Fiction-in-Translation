@@ -14,6 +14,8 @@ This thesis project is dedicated to making translations visible and disentanglin
 ## Media material
 
 For a brief discussion on results and a presentation of the model:
+([https://www.youtube.com/embed/Wa2dXq6tpD0](https://www.youtube.com/embed/Wa2dXq6tpD0) "Vidéo de la deuxième conférence Stéfan Sinclair-CRIHN (Lisa Teichmann)")
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wa2dXq6tpD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## License
