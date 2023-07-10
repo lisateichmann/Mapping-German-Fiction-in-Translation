@@ -13,7 +13,7 @@ This thesis project is dedicated to making translations visible and disentanglin
 
 **Thesis appendix** contains result tables and figures of the thesis "Mapping German fiction in translation in the German National Library catalogue (1980-2020)"
 
-**Social Network Analysis** contains scripts and data for chapter 3.
+**Network Analysis** contains scripts and data for chapter 3.
 
 **Scripts** contains additional R scripts that have been developed to produce tables and figures in the **Thesis appendix** folder
 
