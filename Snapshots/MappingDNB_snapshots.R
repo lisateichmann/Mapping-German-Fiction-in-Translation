@@ -3,6 +3,30 @@
 ##Date: 05 July 2024
 ##Comment: This script compiles the CSV's with data for each year into one table and then creates a visualization for each snapshot
 
+alldnb_2021_titlesums <- read.csv("alldnb_2021_titlesums_peryear.csv")
+alldnb_2023_titlesums <- read.csv("alldnb_2023_titlesums_peryear.csv")
+
+titlesums <- read.csv("alldnb_2021_2023_titlesums_peryear.csv")
+
+ggplot(data = titlesums, 
+       aes(x = Sprint, y = Hours, fill = Variable)) + 
+  geom_bar(stat = 'identity', position = 'dodge')
+
+barplot(titlesums,
+        col=colors()[c(30,89)] , 
+        border="white", 
+        font.axis=2, 
+        beside=T, 
+        legend=titlesums$Year, 
+        xlab="Languages",
+        ylab="Title Count",
+        main="Publisher count and title count for the top 30 languages",
+        font.lab=2,
+        las=2, cex.names=.5,
+        legend.text = c("Publisher Count", "Title Count"))
+
+
+### Download and create table from catalogue data
 ### How to get the raw data from the DNB ###
 ## 1. Go to: https://portal.dnb.de/opac.htm (account required)
 ## 2. Filter the catalogue with the following query (Expertsearch): spo=ger and (sgt=59 or sgt=B) and (jhr=2020)
